@@ -1,0 +1,5 @@
+# Don't track content of these folders
+datasets/dow_clean/
+datasets/twitters/withsent/
+zz_junk/
+raw_data/
